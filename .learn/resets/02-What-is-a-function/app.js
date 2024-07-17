@@ -2,8 +2,4 @@ function sum(number1,number2) {
     return number1 + number2;
 }
 
-superDuper= sum(3445324, 53454423)
-
-console.log(superDuper)
-
 // Your code here
